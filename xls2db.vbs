@@ -142,7 +142,7 @@ Function main()
 	Dim excel_fname_in, excel_fname_out
 	Set arg = WScript.Arguments
 	if arg.Count < 2 then
-		WScript.StdErr.WriteLine "Usage: cscript read_excel.vbs excel_fname(fullpath) output_xls_name(fullpath)"
+		WScript.StdErr.WriteLine "Usage: cscript xls2db.vbs excel_fname(fullpath) output_xls_name(fullpath)"
 		Exit Function
 	else
 		excel_fname_in = arg(0)
