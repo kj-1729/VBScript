@@ -1,4 +1,8 @@
 # files_dirs.vbs
+This will list all directories/files under a given directory.
+
+Usage:
+cscript files_dirs.vbs (ROOTDIR) (output xls file)
 
 Output file layout
  |　No.　|　column name　|　content　|
