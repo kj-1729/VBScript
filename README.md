@@ -58,4 +58,6 @@ sheet: "from2"
 
 ### Sample Output:
 
+<img width="407" alt="xls2db_output2" src="https://user-images.githubusercontent.com/87534698/232396426-fd94b4f2-8422-4aa7-98bc-cbae8c142763.png">
+
 
